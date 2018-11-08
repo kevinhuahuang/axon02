@@ -29,7 +29,7 @@ export default {
     linkArray: {
       type: Array,
       default () {
-        return [['网页应用', '../dp7'], ['商城', '../millet'], ['股票', '../start_page'], ['音乐APP', '../axon02'], ['其它', '../others']]
+        return [['网页应用', '../dp7'], ['商城', '../millet'], ['股票', '../start_page'], ['其它', '../others']]
       }
     }
   }
